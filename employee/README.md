@@ -1,1 +1,1 @@
-![Output Image](employee/employee.jpg)
+![Output Image](/employee/employee.jpg)
